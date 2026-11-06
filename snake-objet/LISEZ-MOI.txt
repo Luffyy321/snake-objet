@@ -1,0 +1,14 @@
+SNAKE OBJET — LA BASE DU 4 NOVEMBRE
+IUT de Tarbes · BUT DIW
+
+Extraire d'abord (Windows : clic droit › « Extraire tout… »), puis double-clic
+sur  index.html . Le travail se fait dans  snake.js .
+
+✅ Vérifier (en bas à droite de la page) : dit ce que répondent vos objets.
+Après chaque modification : enregistrer, recharger la page (F5, ou Cmd+R).
+
+sprites/ : des images pour le défi « Les sprites ». Dessinées pour ce cours :
+gardez-les, modifiez-les, remplacez-les par les vôtres.
+
+En binôme : un clavier, deux têtes. Celui qui ne tape pas lit et vérifie.
+On change de clavier à chaque marche.
